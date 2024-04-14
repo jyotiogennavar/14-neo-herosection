@@ -178,7 +178,7 @@ const HeroContent = styled.div`
   justify-content: center;
   align-items: flex-start;
   gap: 1rem;
-  width: 40%;
+  width: 42%;
   position: relative;
 
   @media (max-width: 768px) {
